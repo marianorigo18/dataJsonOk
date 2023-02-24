@@ -1,0 +1,83 @@
+{
+    "categorias": [
+        {
+            "title": "iluminacion",
+            "img": "nad",
+            "categorias": [
+                {
+                    "title": "lamparas",
+                    "img": "",
+                    "categorias": [
+                    {
+                        "title": "vintage",
+                        "img": "..",
+                        "categorias": [
+                            {
+                                "title": "gota s14 1w",
+                                "img": ""
+                            },
+                            {
+                                "title": "vela c37 3w",
+                                "img": ""
+                            },                            
+                            {
+                                "title": "gota g45 3w",
+                                "img": ""
+                            },
+                            {
+                                "title": "bulbo a60 2w",
+                                "img": ""
+                            },
+                            {
+                                "title": "bulbo A60 5w",
+                                "img": ""
+                            },
+                            {
+                                "title": "tubo t45 4w",
+                                "img": ""
+                            },
+                            {
+                                "title": "tubo t30 2w",
+                                "img": ""
+                            },
+                            {
+                                "title": "tubo t30 5w",
+                                "img": ""
+                            },
+                            {
+                                "title": "globo g125 5w",
+                                "img": ""
+                            },
+                            {
+                                "title": "vintage st19 2w",
+                                "img": ""
+                            },
+                            {
+                                "title": "vintage st19 5w",
+                                "img": ""
+                            }
+                        ]
+                    },
+                    {"bulbo": {}},
+                    {"dicroicas": {}},
+                    {"gota filamento": {}},
+                    {"gota": {}},
+                    {"golponera e-40": {}},
+                    {"golponera e-27": {}},
+                    {"bi-pin": {}},
+                    {"e-14": {}},
+                    {"tubo led": {}}
+                ]},
+                {"faroles": {}},
+                {"bidireccionales": {}},
+                {"plafones": {}},
+                {"colgantes": {}}
+            ] 
+            
+        },
+        {
+            "title": "industria",
+            "img": "nada"
+        }
+    ]
+}

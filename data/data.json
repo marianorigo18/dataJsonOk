@@ -346,7 +346,29 @@
                 {
                     "title" :"faroles",
                     "img": "",
-                    "link": ""
+                    "link": "linea-faroles.html",
+                    "categorias": [
+                        {
+                            "title": "faroles trapezoidales",
+                            "img": "",
+                            "link": "foroles-trapezoidales.html"
+                        },
+                        {
+                            "title": "faroles exagonales",
+                            "img": "",
+                            "link": "foroles-exagonales.html"
+                        },
+                        {
+                            "title": "faroles rectos",
+                            "img": "",
+                            "link": "foroles-rectos.html"
+                        },
+                        {
+                            "title": "faroles",
+                            "img": "",
+                            "link": "foroles.html"
+                        }
+                    ]
                 },
                 {
                     "title": "bidireccionales",

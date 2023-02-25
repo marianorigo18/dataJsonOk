@@ -194,39 +194,153 @@
                             },
                             {
                                 "id": 31,
-                                "title": "gota s14 deco 1w"
+                                "title": "gota s14 deco 1w",
+                                "img": ""
+                            },
+                            {
+                                "id": 32,
+                                "title": "gota calida 6w",
+                                "img": ""
+                            },
+                            {
+                                "id": 33,
+                                "title": "gota fria 6w",
+                                "img": ""
                             }
                         ]
                     },
                     {
-                        "title": "golponera e-40",
+                        "title": "golponeras",
                         "img": "",
-                        "link": "golponera-e40.html",
-                        "categorias": []
-                    },
-                    {
-                        "title": "golponera e-27",
-                        "img": "",
-                        "link": "golponera-e27.html",
-                        "categorias": []
+                        "link": "golponeras.html",
+                        "categorias": [
+                            {
+                                "id": 34,
+                                "title": "bulbon 19w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 35,
+                                "title": "bulbon 28w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 36,
+                                "title": "bulbon 38w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 37,
+                                "title": "bulbon 48w e-27",
+                                "img": ""
+                            },
+                            {
+                                "id": 38,
+                                "title": "hightpower 60w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 39,
+                                "title": "hightpower 90w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 40,
+                                "title": "magnolia 40w e-40",
+                                "img": ""
+                            },
+                            {
+                                "id": 41,
+                                "title": "magnolia 60w e-40",
+                                "img": ""
+                            }
+                        ]
                     },
                     {
                         "title": "bi-pin",
                         "img": "",
                         "link": "bi-pin.html",
-                        "categorias": []
-                    },
-                    {
-                        "title": "e-14",
-                        "img": "",
-                        "link": "e-14.html",
-                        "categorias": []
+                        "categorias": [
+                            {
+                                "id": 42,
+                                "title": "bipin 4.5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 43,
+                                "title": "bipin 6w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 44,
+                                "title": "bipin 9w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 45,
+                                "title": "bipin 12w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 46,
+                                "title": "bipin opal 5w g9 220v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 47,
+                                "title": "bipin 2w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 48,
+                                "title": "bipin 4w g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 49,
+                                "title": "bipin 2.5w opal g4 12v",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
                     },
                     {
                         "title": "tubo led",
                         "img": "",
                         "link": "tubo-led.html",
-                        "categorias": []
+                        "categorias": [
+                            {
+                                "id": 50,
+                                "title": "tubo led vidrio 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 51,
+                                "title": "tubo led vidrio 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 52,
+                                "title": "tubo nano 60cm 9w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            },
+                            {
+                                "id": 53,
+                                "title": "tubo nano 120cm 18w",
+                                "img": "",
+                                "variante": ["frio", "calido"]
+                            }
+                        ]
                     }
                 ]},
                 {

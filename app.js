@@ -6,17 +6,9 @@ async function getData(){
 }
 
 function recorrerData(data){
-    data.categorias.forEach((element) => {
+    let iluminacion = data.categorias[0].categorias[0].categorias[0].categorias;
+    iluminacion.forEach(element => {
         console.log(element);
-        console.log(element.title);
-        console.log(element.link);
-        console.log(element.categorias);
-        element.categorias.forEach(element => {
-            console.log(element.title);
-            element.categorias.forEach(element => {
-                console.log(element.title);
-            })
-        })
     });
 
 }

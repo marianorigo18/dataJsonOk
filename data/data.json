@@ -351,22 +351,62 @@
                         {
                             "title": "faroles trapezoidales",
                             "img": "",
-                            "link": "foroles-trapezoidales.html"
+                            "link": "foroles-trapezoidales.html",
+                            "categorias": [
+                                {
+                                "id": 54,
+                                "title": "farol 5500",
+                                "img": ""
+                                },
+                                {
+                                "id": 55,
+                                "title": "farol 5510",
+                                "img": ""
+                                },
+                                {
+                                "id": 56,
+                                "title": "farol 5512",
+                                "img": ""
+                                },
+                                {
+                                "id": 57,
+                                "title": "farol 5513",
+                                "img": ""
+                                },
+                                {
+                                "id": 58,
+                                "title": "farol 5514",
+                                "img": ""
+                                },
+                                {
+                                "id": 59,
+                                "title": "farol 5516",
+                                "img": ""
+                                },
+                                {
+                                "id": 60,
+                                "title": "farol 5518",
+                                "img": ""
+                                }
+                            ]
                         },
                         {
                             "title": "faroles exagonales",
                             "img": "",
-                            "link": "foroles-exagonales.html"
+                            "link": "foroles-exagonales.html",
+                            "categorias": [{}]
                         },
                         {
                             "title": "faroles rectos",
                             "img": "",
-                            "link": "foroles-rectos.html"
+                            "link": "foroles-rectos.html",
+                            "categorias": [{}]
                         },
                         {
                             "title": "faroles",
                             "img": "",
-                            "link": "foroles.html"
+                            "link": "foroles.html",
+                            "categorias": [{}]
                         }
                     ]
                 },

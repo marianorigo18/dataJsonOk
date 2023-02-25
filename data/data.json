@@ -2,15 +2,18 @@
     "categorias": [
         {
             "title": "iluminacion",
-            "img": "nad",
+            "img": "",
+            "link": "iluminacion.html",
             "categorias": [
                 {
                     "title": "lamparas",
                     "img": "",
+                    "link": "lamparas.html",
                     "categorias": [
                     {
                         "title": "vintage",
-                        "img": "..",
+                        "img": "vintage.html",
+                        "link": "vintage.html",
                         "categorias": [
                             {
                                 "id": 1,
@@ -18,67 +21,142 @@
                                 "img": ""
                             },
                             {
+                                "id": 2,
                                 "title": "vela c37 3w",
                                 "img": ""
                             },                            
                             {
+                                "id": 3,
                                 "title": "gota g45 3w",
                                 "img": ""
                             },
                             {
+                                "id": 4,
                                 "title": "bulbo a60 2w",
                                 "img": ""
                             },
                             {
+                                "id": 5,
                                 "title": "bulbo A60 5w",
                                 "img": ""
                             },
                             {
+                                "id": 6,
                                 "title": "tubo t45 4w",
                                 "img": ""
                             },
                             {
+                                "id": 7,
                                 "title": "tubo t30 2w",
                                 "img": ""
                             },
                             {
+                                "id": 8,
                                 "title": "tubo t30 5w",
                                 "img": ""
                             },
                             {
+                                "id": 9,
                                 "title": "globo g125 5w",
                                 "img": ""
                             },
                             {
+                                "id": 10,
                                 "title": "vintage st19 2w",
                                 "img": ""
                             },
                             {
+                                "id": 11,
                                 "title": "vintage st19 5w",
                                 "img": ""
                             }
                         ]
                     },
-                    {"bulbo": {}},
-                    {"dicroicas": {}},
-                    {"gota filamento": {}},
-                    {"gota": {}},
-                    {"golponera e-40": {}},
-                    {"golponera e-27": {}},
-                    {"bi-pin": {}},
-                    {"e-14": {}},
-                    {"tubo led": {}}
+                    {
+                        "title": "bulbos",
+                        "img": "",
+                        "link": "bulbos.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "dicroicas",
+                        "img": "",
+                        "link": "dicroicas.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "gota filamento",
+                        "img": "",
+                        "link": "gota-filamento.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "gota",
+                        "img": "",
+                        "link": "gota.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "golponera e-40",
+                        "img": "",
+                        "link": "golponera-e40.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "golponera e-27",
+                        "img": "",
+                        "link": "golponera-e27.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "bi-pin",
+                        "img": "",
+                        "link": "bi-pin.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "e-14",
+                        "img": "",
+                        "link": "e-14.html",
+                        "categorias": []
+                    },
+                    {
+                        "title": "tubo led",
+                        "img": "",
+                        "link": "tubo-led.html",
+                        "categorias": []
+                    }
                 ]},
-                {"faroles": {}},
-                {"bidireccionales": {}},
-                {"plafones": {}},
-                {"colgantes": {}}
+                {
+                    "title" :"faroles",
+                    "img": "",
+                    "link": ""
+                },
+                {
+                    "title": "bidireccionales",
+                    "img": "",
+                    "link": ""
+                },
+                {
+                    "title": "plafones",
+                    "img": "",
+                    "link": ""
+                },
+                {
+                    "title": "colgantes",
+                    "img": "",
+                    "link": ""
+                }
             ] 
             
         },
         {
             "title": "industria",
-            "img": "nada"
+            "img": "",
+            "link": "industria.html",
+            "categorias": [
+
+            ]
         }
     ]
 }

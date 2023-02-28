@@ -8,7 +8,7 @@
                 {
                     "title": "lamparas",
                     "img": "",
-                    "link": "lamparas.html",
+                    "link": "./pag/lamparas.html",
                     "categorias": [
                     {
                         "title": "vintage",
@@ -346,7 +346,7 @@
                 {
                     "title" :"faroles",
                     "img": "",
-                    "link": "linea-faroles.html",
+                    "link": "./pag/linea-faroles.html",
                     "categorias": [
                         {
                             "title": "faroles trapezoidales",
@@ -459,7 +459,7 @@
                 {
                     "title": "apliques",
                     "img": "",
-                    "link": "",
+                    "link": "./pag/apliques.html",
                     "categorias": [
                         {
                             "title": "unidireccional",
@@ -515,7 +515,7 @@
                 {
                     "title": "plafones",
                     "img": "",
-                    "link": "",
+                    "link": "./pag/plafones.html",
                     "categorias": [
                         {
                             "title": "cuadrado aplicable",
@@ -745,7 +745,7 @@
                 {
                     "title": "colgantes",
                     "img": "",
-                    "link": "",
+                    "link": "./pag/colgantes.html",
                     "categorias": [
                         {
                             "title": "chapa",
